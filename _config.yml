@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Hut
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Valdenir Trevisan Junior
 language: en
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: https://valdenirtrevisan.github.io/blog
+root: /blog/
 permalink: post/:title/
 permalink_defaults:
 pretty_urls:
